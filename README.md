@@ -35,7 +35,7 @@ This project integrates speech recognition, text-to-speech, and a generative AI 
 
 1. Run the main script:
     ```bash
-    python main.py
+    python AIBOT.py
     ```
 
 2. Speak your question into the microphone when prompted. The AI will process your question and respond audibly.
