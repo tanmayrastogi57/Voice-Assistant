@@ -1,6 +1,6 @@
-# Speech-to-Text and AI Response Generator
+# Speech-to-Text & Text-To-Speech and AI Response Generator
 
-This project integrates speech recognition, text-to-speech, and a generative AI model to create an interactive voice assistant. The assistant listens to user questions, generates AI-based responses, and speaks the answers back to the user.
+This project integrates speech recognition, text-to-speech, Speech-to-text and a generative AI model to create an interactive voice assistant. The assistant listens to user questions, generates AI-based responses, and speaks the answers back to the user.
 
 ## Features
 
